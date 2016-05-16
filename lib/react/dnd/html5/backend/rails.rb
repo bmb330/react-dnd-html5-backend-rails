@@ -5,7 +5,8 @@ module React
     module Html5
       module Backend
         module Rails
-          # Your code goes here...
+          class Engine < ::Rails::Engine
+          end
         end
       end
     end

@@ -3,7 +3,7 @@ module React
     module Html5
       module Backend
         module Rails
-          VERSION = "0.1.0"
+          VERSION = "2.1.2"
         end
       end
     end
