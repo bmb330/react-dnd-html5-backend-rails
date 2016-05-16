@@ -20,6 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
+Require ReactDnDHTML5Backend.min.js in your application.js
+
+```js
+//= require ReactDnDHTML5Backend.min.js
+```
+
 See docs for [React DnD HTML5 Backend](http://gaearon.github.io/react-dnd/docs-html5-backend.html)
 
 ## Development
